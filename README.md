@@ -14,12 +14,12 @@ I am a passionate developer and AI/ML enthusiast, currently exploring innovative
 
 ### 🌐 Portfolio Website
 Check out my personal portfolio for more about me, my skills, and projects:
-[Visit my Portfolio](https://your-portfolio-link.com)
+[Visit my Portfolio](
 
 ### 🔥 Featured Projects
 - Amazon Customer Segmentation - https://github.com/TanushreeBorase/ML-PROJECTS/tree/main/Amazon%20Customer%20Segmentation
 - Gemini Chatbot - Retrieval-augmented chatbot built using OpenAI APIs.
-- lib - 
+- lib - https://github.com/TanushreeBorase/Lib
 
 ### 🛠️ Technologies & Tools
 - Languages: Python, JavaScript, HTML, CSS
