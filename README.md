@@ -6,7 +6,7 @@ I am a passionate developer and AI/ML enthusiast, currently exploring innovative
 
 ### 🚀 About Me
 - 🎓 Background: Final year student focusing on AI, ML, and Web Development.
-- 💼 Currently working on**: [CareerElevateAI](#) and [AI-Powered Disaster Management System](#).
+- 💼 Currently working on: CareerElevateAIand AI-Powered Disaster Management System
 - 🏆 Recent Achievements: 
   - Shortlisted for the second round of MHTECHIN Innovation Challenge 2024.
   - Completed SAWiT.AI Learnathon Program on Generative AI.
