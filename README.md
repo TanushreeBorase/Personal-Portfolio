@@ -18,7 +18,7 @@ Check out my personal portfolio for more about me, my skills, and projects:
 
 ### 🔥 Featured Projects
 - Amazon Customer Segmentation - https://github.com/TanushreeBorase/ML-PROJECTS/tree/main/Amazon%20Customer%20Segmentation
-- Gemini Chatbot - Retrieval-augmented chatbot built using OpenAI APIs.
+- Gemini Chatbot - Retrieval-augmented chatbot built using OpenAI APIs.(https://bright-lollipop-a849d9.netlify.app/)
 - lib - https://github.com/TanushreeBorase/Lib
 
 ### 🛠️ Technologies & Tools
